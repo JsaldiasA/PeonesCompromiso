@@ -1,5 +1,5 @@
 # PeonesCompromiso
-Repo de cancion compromiso
+Repo de cancion compromiso. Tempo 90 BPM.
 
 # Letra
 Son compromisos
@@ -26,6 +26,11 @@ Si los dejamos
 Abandonados
 Sera una excusa
 Para rencontrarnooooooos
+
+# Vitacora
+
+Dia 11)<br>
+Bajo ajustado, guardado en carpeta bass con nombre BassEdited, se ajustaron un poco algunos compases para calzar con bateria.<br>
 
 
 
