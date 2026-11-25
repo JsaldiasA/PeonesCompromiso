@@ -29,7 +29,7 @@ Para rencontrarnooooooos<br>
 
 # Vitacora
 
-##Dia 11
+## Dia 11
 Bajo ajustado, guardado en carpeta bass con nombre BassEdited, se ajustaron un poco algunos compases para calzar con bateria.<br>
 
 
