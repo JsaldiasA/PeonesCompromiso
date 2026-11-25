@@ -2,34 +2,34 @@
 Repo de cancion compromiso. Tempo 90 BPM.
 
 # Letra
-Son compromisos
-Que han quedado
-Y con el tiempo
-Se olvidaron
-
-Siempre hay tiempo
-Para tomarlos
-Y reencontrarnos
-Con el pasado
-
-Son compromisos
-No concebidos
-Pero por siempre
-Estarán vivos
-
-En la memoria
-Nunca se borran
-Esos momentos
-De nuestra historia
-
-Si los dejamos
-Abandonados
-Sera una excusa
-Para rencontrarnooooooos
+Son compromisos<br>
+Que han quedado<br>
+Y con el tiempo<br>
+Se olvidaron<br>
+<br>
+Siempre hay tiempo<br>
+Para tomarlos<br>
+Y reencontrarnos<br>
+Con el pasado<br>
+<br>
+Son compromisos<br>
+No concebidos<br>
+Pero por siempre<br>
+Estarán vivos<br>
+<br>
+En la memoria<br>
+Nunca se borran<br>
+Esos momentos<br>
+De nuestra historia<br>
+<br>
+Si los dejamos<br>
+Abandonados<br>
+Sera una excusa<br>
+Para rencontrarnooooooos<br>
 
 # Vitacora
 
-Dia 11)<br>
+##Dia 11
 Bajo ajustado, guardado en carpeta bass con nombre BassEdited, se ajustaron un poco algunos compases para calzar con bateria.<br>
 
 
